@@ -22,6 +22,7 @@
 ・HelloWorldControllerでModelを使い"HelloWorld!今日の日付と時間はこちら" と日本語表示の日付と時間をビューに渡す
 
 ### 実行結果
+![UNADJUSTEDNONRAW_thumb_1971](https://user-images.githubusercontent.com/103630732/174080504-853f4fd5-bb59-4099-81f4-dda92c22a2ab.jpg)
 
-![](../../../Pictures/写真ライブラリ.photoslibrary/resources/proxies/derivatives/19/00/1971/UNADJUSTEDNONRAW_thumb_1971.jpg)
+
 
