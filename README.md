@@ -11,7 +11,7 @@
 
 ### 実行結果
 
-![UNADJUSTEDNONRAW_mini_1970](https://user-images.githubusercontent.com/103630732/173790517-9c042fb9-c5db-4957-a282-0c22f798ad62.jpg)
+![](../../../Desktop/スクリーンショット 2022-06-15 17.37.20.png)
 
 ## 3."HelloWorldを表示したプロジェクトに自分で考えた変更を加えてみる"
 
@@ -23,5 +23,12 @@
 
 ### 実行結果
 
-![](../../../Pictures/写真ライブラリ.photoslibrary/resources/proxies/derivatives/19/00/1971/UNADJUSTEDNONRAW_thumb_1971.jpg)
+![](../../../Desktop/スクリーンショット 2022-06-16 20.56.12.png)
 
+## 修正内容
+
+・DateTimeFormatクラスを削除し、HelloWorldControllerに日付と時間を日本語表示するメソッドを記述
+
+### 修正後の実行結果
+
+![](../../../Desktop/スクリーンショット 2022-06-17 16.01.08.png)
