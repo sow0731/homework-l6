@@ -23,7 +23,7 @@
 
 ### 実行結果
 
-![](../../../Desktop/スクリーンショット 2022-06-16 20.56.12.png)
+![UNADJUSTEDNONRAW_thumb_1971](https://user-images.githubusercontent.com/103630732/174080504-853f4fd5-bb59-4099-81f4-dda92c22a2ab.jpg)
 
 ## 修正内容
 
